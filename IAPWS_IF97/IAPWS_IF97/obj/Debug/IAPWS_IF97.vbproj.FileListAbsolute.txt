@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\bin\Debug\IAPWS_IF97.dll
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\bin\Debug\IAPWS_IF97.pdb
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\bin\Debug\IAPWS_IF97.xml
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\bin\Debug\ExcelDna.IntelliSense.dll
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\bin\Debug\ExcelDna.IntelliSense.pdb
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.vbproj.AssemblyReference.cache
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.Resources.resources
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.vbproj.GenerateResource.cache
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.vbproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.vbproj.CopyComplete
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.dll
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.xml
+C:\Users\franc\source\repos\IAPWS_IF97\IAPWS_IF97\obj\Debug\IAPWS_IF97.pdb
